@@ -1,0 +1,12 @@
+4 # $/career
+2 # $/interest
+8 # career/interest
+0 # alt crit $
+7
+6
+2 # alt crit career
+3
+0
+7 # alt crit interest
+6
+8
